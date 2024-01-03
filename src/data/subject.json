@@ -1,0 +1,196 @@
+{
+    "subjectId": "CUSTEST-LIST-134-0106",
+    "subjectSrcUniqueId": "CUSTEST-LIST-134-0106",
+    "subjectSrcRefId": "REF-CUSTEST-LIST-134-0106",
+    "subjectName": "CHARLES BRIGHT CHARLES",
+    "organisationUnit": "EUR",
+    "subjectTypeCode": "P",
+    "subjectType": "Personal",
+    "residenceAddress": {
+      "addressLine": "Kolola Pushta Street",
+      "countryCode": "AF",
+      "postalCode": "555000",
+      "city": "City"
+    },
+    "email": "acceptablyJAWM@city-of-westminster.net",
+    "phone": {},
+    "occupation": "POLITICAN",
+    "incorporationCountryCode": "US",
+    "incorporationDate": "2010-09-25T00:00:00",
+    "nationalityCountryCode": "AE",
+    "relationshipManager": {
+      "id": "000021",
+      "name": "ABU ZEINAB"
+    },
+    "branchDetail": {
+      "id": "000013",
+      "name": "BRANCH 0013",
+      "sortCode": "6931"
+    },
+    "subjectStatus": "ACTIVE",
+    "isSpecialAttentionRequested": true,
+    "sourcesOfFunds": ["E"],
+    "annualIncome": 142000,
+    "taxInfoDetail": {
+      "taxNumber": "1111111111",
+      "taxNumberType": "EIN",
+      "taxNumberIssuedByCountryCode": "AF"
+    },
+    "vatNumber": "6484440084",
+    "segments": ["PERS"],
+    "previouslyReportedFlag": false,
+    "lastUpdatedTimestamp": "2023-06-30T19:33:41.134390",
+    "riskLevel": "High",
+    "isBankrupt": false,
+    "isPEP": false,
+    "isOnOtherWatchList": true,
+    "adverseMedia": {
+      "isAdverseMediaPresent": true
+    },
+    "isSanctioned": false,
+    "isRCA": false,
+    "isPEPRelated": false,
+    "sarCount": 0,
+    "ctrCount": 0,
+    "calculatedScore": 241,
+    "acquisitionDate": "2009-01-06T00:00:00",
+    "personTitle": "Mr",
+    "employmentStatus": "SELF-EMPLO",
+    "employerName": "Pokefarm",
+    "dateOfBirth": "1948-08-29",
+    "gender": "GN0001",
+    "originCountryCode": "AE",
+    "tags": [
+      {
+        "category": "nr:riskFactors",
+        "tag": "OnOtherWatchlist"
+      },
+      {
+        "category": "nr:riskFactors",
+        "tag": "AdverseMedia"
+      },
+      {
+        "category": "nr:riskFactors",
+        "tag": "SpecialAttention"
+      }
+    ],
+    "accounts": [
+      {
+        "accountId": "ACCTEST-163-20090106",
+        "accountSrcUniqueId": "ACCTEST-163-20090106",
+        "accountSrcRefId": "REF-ACCTEST-163-20090106",
+        "accountName": "CHARLES R. BRIGHT CHARLES(163)",
+        "statusCode": "ACTIVE",
+        "currencyCode": "USD",
+        "branchId": "000011",
+        "relationshipMgrId": "000004",
+        "relationshipManager": {
+          "id": "000004",
+          "name": "ABU HAFS AL MASRI EL KHABIR"
+        },
+        "product": {
+          "srcTypeCode": "0013",
+          "name": "Unknown",
+          "group": "Unknown",
+          "class": "S",
+          "srcTypeDescription": "Unknown"
+        },
+        "dateOpened": "2005-07-17T00:00:00",
+        "dateClosed": null,
+        "balanceDate": null,
+        "organisationUnit": "EUR",
+        "accountBalance": 26516.51,
+        "accountBalanceBaseCurrency": 106066.04,
+        "creditDebitCode": "Debit",
+        "overdraftLimit": 19208.11,
+        "iban": null,
+        "creditLimit": null,
+        "blockedReason": null,
+        "currencyCodeBase": "EUR",
+        "dormantStatusFlag": false,
+        "frozenStatusFlag": false,
+        "accountOpenChannel": "BRANCH",
+        "accountChannelRemoteFlag": false,
+        "holdingBankName": "Southwestern National Bank",
+        "accountOnHoldFlag": false
+      },
+      {
+        "accountId": "ACCTEST-164-20090106",
+        "accountSrcUniqueId": "ACCTEST-164-20090106",
+        "accountSrcRefId": "REF-ACCTEST-164-20090106",
+        "accountName": "CHARLES R. BRIGHT CHARLES(164)",
+        "statusCode": "ACTIVE",
+        "currencyCode": "USD",
+        "branchId": "000011",
+        "relationshipMgrId": "000004",
+        "relationshipManager": {
+          "id": "000004",
+          "name": "ABU HAFS AL MASRI EL KHABIR"
+        },
+        "product": {
+          "srcTypeCode": "0013",
+          "name": "Unknown",
+          "group": "Unknown",
+          "class": "S",
+          "srcTypeDescription": "Unknown"
+        },
+        "dateOpened": "2005-07-17T00:00:00",
+        "dateClosed": null,
+        "balanceDate": null,
+        "organisationUnit": "EUR",
+        "accountBalance": 26516.51,
+        "accountBalanceBaseCurrency": 106066.04,
+        "creditDebitCode": "Debit",
+        "overdraftLimit": 19208.11,
+        "iban": null,
+        "creditLimit": null,
+        "blockedReason": null,
+        "currencyCodeBase": "EUR",
+        "dormantStatusFlag": false,
+        "frozenStatusFlag": false,
+        "accountOpenChannel": "BRANCH",
+        "accountChannelRemoteFlag": false,        
+        "holdingBankName": "Southwestern National Bank",
+        "accountOnHoldFlag": false
+      },
+      {
+        "accountId": "ACCTEST-165-20090106",
+        "accountSrcUniqueId": "ACCTEST-165-20090106",
+        "accountSrcRefId": "REF-ACCTEST-165-20090106",
+        "accountName": "CHARLES R. BRIGHT CHARLES(165)",
+        "statusCode": "ACTIVE",
+        "currencyCode": "USD",
+        "branchId": "000011",
+        "relationshipMgrId": "000004",
+        "relationshipManager": {
+          "id": "000004",
+          "name": "ABU HAFS AL MASRI EL KHABIR"
+        },
+        "product": {
+          "srcTypeCode": "0013",
+          "name": "Unknown",
+          "group": "Unknown",
+          "class": "S",
+          "srcTypeDescription": "Unknown"
+        },
+        "dateOpened": "2005-07-17T00:00:00",
+        "dateClosed": null,
+        "balanceDate": null,
+        "organisationUnit": "NA",
+        "accountBalance": 26516.51,
+        "accountBalanceBaseCurrency": 106066.04,
+        "creditDebitCode": "Debit",
+        "overdraftLimit": 19208.11,
+        "iban": null,
+        "creditLimit": null,
+        "blockedReason": null,
+        "currencyCodeBase": "EUR",
+        "dormantStatusFlag": false,
+        "frozenStatusFlag": false,
+        "accountOpenChannel": "ONLINE",
+        "accountChannelRemoteFlag": true,        
+        "holdingBankName": "Southwestern National Bank",
+        "accountOnHoldFlag": false
+      }
+   ]
+}

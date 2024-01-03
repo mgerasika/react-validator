@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.block_el  {
+  display:flex;
+  margin:2px;
+}
+.block_el div {
+  flex: 0 1 33.333%;
+  padding:2px;
+}
+
+.block_el textarea {
+  height:90vh;
+  width:100%;
+}

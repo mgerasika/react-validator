@@ -1,0 +1,115 @@
+{
+    "investigation": { "includedInNarrative": true },
+     "txnId": "TXN-382-20090105",
+     "account": { "id": "ACC-UNIQ-8-19911125", "srcRefId": "ACC-8-19911125" },
+     "transactionDate": "2017-06-05T00:00:00",
+     "originationDate": "2015-12-31T00:00:00",
+     "txnAmountInOriginCurrency": 10740.92,
+     "currencyCodeOrigin": "EUR",
+     "txnAmountInBaseCurrency": 25612.71,
+     "creditDebitCode": "Credit",
+     "txnSrcUniqueId": "TXN-382-20090105",
+     "txnSrcRefId": "TXN-NUM-382-20090105",
+     "txnType": {
+       "code": "TT0023",
+       "name": null,
+       "description": "TRAVELLERS CHEQUE BUY",
+       "scope": "EXTERNAL",
+         "instrument": "CHEQUE",
+         "region": "DOMESTIC"
+       },
+       "beneficiary": {
+         "id": "CUST-UNIQ-000008",
+         "srcRefId": "CUST-000008",
+         "name": "WENDEL BARNES",
+         "address": {
+         "addressLine": "7666 TOILS BOULEVARD",
+         "city": "City",
+         "zone": "UNION",
+         "postalCode": "19065",
+         "countryCode": "MY"
+       },
+       "segment": "SME",
+       "role": "FirstParty",
+       "account": {
+         "id": "ACC-UNIQ-8-19911125",
+         "name": "SONIA REMLER-8-19911125",
+         "srcRefId": "ACC-8-19911125",
+         "type": "Cheque/Check",
+         "typeCode": "AT0003",
+         "organisationUnit": "GRO",
+         "statusCode": "ACTIVE",
+         "creditDebitCode": "Debit",
+         "currencyCode": "USD",
+         "dateOpened": "2005-07-17T00:00:00",
+         "dateClosed": null,
+         "dormantStatusFlag": false,
+         "frozenStatusFlag": false,
+         "accountOpenChannel": "BRANCH",
+         "accountChannelRemoteFlag": false,            
+         "iban": null,
+         "bic": null,
+         "address": {
+           "addressLine": null,
+           "city": "City",
+           "zone": null,
+           "postalCode": null,
+           "countryCode": "BR"
+         },
+         "balance": 13309.36,
+         "branchDetail": {
+           "id": "000008",
+           "name": "BRANCH 0008",
+           "sortCode": "2539"
+         }
+       }
+     },
+     "originator": {
+       "id": null,
+       "srcRefId": null,
+       "name": "Della Parkburg",
+       "address": {
+         "addressLine": "5261 INTRUSIONS STREET",
+         "city": "London",
+         "zone": "MY_ZONE",
+         "postalCode": "78-100",
+         "countryCode": "BZ"
+       },
+       "segment": null,
+       "role": "CounterParty",
+       "account": {
+         "id": "ACC-371-2004816",
+         "name": "DELLA PARKBURG-ACC-371-2004816",
+         "srcRefId": "ACC-371-2004816",
+         "type": null,
+         "typeCode": null,
+         "iban": null,
+         "bic": null,
+         "bank": {
+           "name": "FIRST UNION",
+           "address": {
+             "addressLine": "3438 CHURNS STREET",
+             "city": "London",
+             "zone": "MY_ZONE",
+             "postalCode": "78-100",
+             "countryCode": "NG"
+           }
+         },
+         "branchDetail": { "sortCode": "FIRST UNIO" }
+       }
+     },
+     "organisationUnit": "EUR",
+     "currencyCodeBase": "EUR",
+     "cardId": "000023",
+     "localTimestamp": "2004-09-17T10:10:10",
+     "location": null,
+     "channel": {
+       "code": "0002",
+       "description": "PAYPAL",
+       "group": "PAYPAL GROUP"
+     },
+     "deviceId": "0005",
+     "employeeId": null,
+     "tellerId": "382",
+     "description": "Lorem ipsum dolor sit amet."
+ }

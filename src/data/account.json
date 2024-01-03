@@ -1,0 +1,39 @@
+{
+  "accountId": "ACCTEST-165-20090106",
+  "accountSrcUniqueId": "ACCTEST-165-20090106",
+  "accountSrcRefId": "REF-ACCTEST-165-20090106",
+  "accountName": "CHARLES R. BRIGHT CHARLES(165)",
+  "statusCode": "ACTIVE",
+  "currencyCode": "USD",
+  "branchId": "000011",
+  "relationshipMgrId": "000004",
+  "relationshipManager": {
+    "id": "000004",
+    "name": "ABU HAFS AL MASRI EL KHABIR"
+  },
+  "product": {
+    "srcTypeCode": "0013",
+    "name": "Unknown",
+    "group": "Unknown",
+    "class": "S",
+    "srcTypeDescription": "Unknown"
+  },
+  "dateOpened": "2005-07-17T00:00:00",
+  "dateClosed": null,
+  "balanceDate": null,
+  "organisationUnit": "NA",
+  "accountBalance": 26516.51,
+  "accountBalanceBaseCurrency": 106066.04,
+  "creditDebitCode": "Debit",
+  "overdraftLimit": 19208.11,
+  "iban": null,
+  "creditLimit": null,
+  "blockedReason": null,
+  "currencyCodeBase": "EUR",
+  "dormantStatusFlag": false,
+  "frozenStatusFlag": false,
+  "accountOpenChannel": "ONLINE",
+  "accountChannelRemoteFlag": true,
+  "holdingBankName": "Southwestern National Bank",
+  "accountOnHoldFlag": false
+}
